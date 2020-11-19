@@ -1,0 +1,85 @@
+
+  .color {
+    background-color: #FAFAFA;
+    border-width: 20px;
+    text-align: center;
+   }
+   
+  #title {
+    font-size: 40px;
+    font-family: Helvetica;
+  }
+
+.gosto {
+  font-family: Helvetica;
+  font-size: 17px;
+}
+
+.custo {
+  padding: 20px 20px 
+}
+ 
+  h2 {
+    font-size: 18px;
+    font-weight: normal;
+    font-family: Helvetica;
+  }
+  
+   h3 {
+    font-size: 18px;
+    margin: 40px 0px 15px 0;
+    font-family: Helvetica;
+  }
+  
+  
+  h6 {
+    font-size: 20px;
+    line-height: 25px;
+  }
+ 
+
+  #image {
+    margin: auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+   }     
+
+#img-div {
+  background-color: white;
+}
+
+#img-caption {
+  line-height: 25px;
+  font-family: Helvetica;
+  font-size: 17px;
+  max-width: 1010px;
+  margin: auto;
+}
+
+
+.ainda {
+  font-size: 17px;
+  line-height: 35px;
+  font-family: Helvetica;
+  margin: auto;
+  text-align: left;
+  max-width: 630px;
+  }
+
+.tento {
+  line-height: 35px;
+  font-size: 17px;
+  font-weight: normal;
+  text-align-last: left;
+  text-align: left;
+  margin: auto;
+  max-width: 580px;
+}
+
+
+
+.cmon {
+  color: #58ACFA;
+}
+
